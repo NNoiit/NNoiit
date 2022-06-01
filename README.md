@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Cristion A.Assis</h1>
+<h1 align="left">Hi, I'm Cristion A.Assis</h1>
 
 <p align="left">
 <img width="420em" src="https://github-readme-stats.vercel.app/api?username=NNoiit&theme=vision-friendly-dark" alt="NNoiit's stats"/>
