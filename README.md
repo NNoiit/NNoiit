@@ -1,9 +1,5 @@
 <h1 align="left">Hi, I'm Cristion A.Assis</h1>
 
-<p align="left">
-<img width="420em" src="https://github-readme-stats.vercel.app/api?username=NNoiit&theme=vision-friendly-dark" alt="NNoiit's stats"/>
-<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NNoiit&layout=compact&theme=vision-friendly-dark" alt="NNoiit's most languages"/>
-</p>
 
 <!--
 **NNoiit/NNoiit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
